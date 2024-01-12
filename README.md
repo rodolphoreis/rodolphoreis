@@ -6,8 +6,8 @@
 
 ### Minhas Skills 🎯
 
-![Typescript](https://skillicons.dev/icons?i=ts)
 ![Javascript](https://skillicons.dev/icons?i=js)
+![Typescript](https://skillicons.dev/icons?i=ts)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React.js](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
