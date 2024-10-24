@@ -41,7 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphoreis&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rodolphoreis&show_icons=true&theme=nightowl" alt="wagaodev's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rodolphoreis&show_icons=true&theme=nightowl" alt="reisdev's stats"/>
 </center>
 
 ##
@@ -49,8 +49,4 @@
 <p align="center" style="background:blue">
  
 
-</a>
-<a href="https://linkedin.com/in/wcfx" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/rodolphoreis-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
+
