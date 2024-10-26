@@ -7,7 +7,7 @@
 - ⚛&nbsp;Front-end Developer
   <br><br>
 
-- 👨🏻‍💻&nbsp; I’m always studying **React**, **JavaScript/Typescript**
+- 👨🏻‍💻&nbsp; I'm always studying React, JavaScript/Typescript and other technologies
   <br><br>
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/rodolphoreis/)
